@@ -22,6 +22,7 @@
               "dashboard"
             ]
           },
+
           {
             "group": "Customization",
             "pages": [
@@ -29,6 +30,15 @@
               "essentials/navigation"
             ]
           },
+          
+          {
+          "group": "core-features",
+          "pages":[
+              "core-features/Features"
+           ]
+          },
+          
+          
           {
             "group": "Writing content",
             "pages": [
