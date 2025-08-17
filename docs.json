@@ -34,7 +34,13 @@
           {
           "group": "Features Overview",
           "pages":[
-              "core-features/Features"
+              "core-features/Features",
+              "core-features/Client-Portal",
+              "core-features/Built-in-Browser",
+              "core-features/Messaging-and-Video-Calls",
+              "core-features/Productivity-Tools",
+              "core-features/Customizable-Dashboards",
+              "core-features/AtlasAI"
            ]
           },
           
