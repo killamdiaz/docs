@@ -106,7 +106,7 @@
     }
   },
   "logo": {
-    "light": "/logo/atlas_light.jpg",
+    "light": "/logo/atlas_light.png",
     "dark": "/logo/atlas.jpg"
   },
   "navbar": {
