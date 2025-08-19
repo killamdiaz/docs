@@ -45,7 +45,7 @@
           },
 
           {
-            "group":"Contracts",
+            "group":"contracts",
             "pages":[
               "contract/UseContracts"
             ]
