@@ -43,7 +43,13 @@
               "core-features/AtlasAI"
            ]
           },
-          
+
+          {
+            "group":"Contracts",
+            "pages":[
+              "contract/UseContracts"
+            ]
+          },
           
           {
             "group": "Writing content",
