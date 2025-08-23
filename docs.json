@@ -50,6 +50,13 @@
               "contract/UseContracts"
             ]
           },
+
+                    {
+            "group":"Finance Lock",
+            "pages":[
+              "Settings/finance_lock"
+            ]
+          },
           
           {
             "group": "Writing content",
