@@ -45,6 +45,11 @@
           },
 
           {
+            "group":"Projects",
+            "pages":"projects.mdx"
+          },
+
+          {
             "group":"contracts",
             "pages":[
               "contract/UseContracts"
