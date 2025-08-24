@@ -45,14 +45,19 @@
           },
 
           {
+            "group": "Projects",
+            "pages":"projects.mdx"
+          },
+
+          {
             "group":"contracts",
             "pages":[
               "contract/UseContracts"
             ]
           },
 
-                    {
-            "group":"Finance Lock",
+          {
+            "group":"Settings",
             "pages":[
               "Settings/finance_lock"
             ]
