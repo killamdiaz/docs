@@ -45,9 +45,12 @@
           },
 
           {
-            "group":"Projects",
-            "pages":"projects.mdx"
+          "group": "Projects",
+          "pages": [
+                  "projects.mdx"
+              ]
           },
+
 
           {
             "group":"contracts",
