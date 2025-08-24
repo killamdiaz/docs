@@ -51,6 +51,18 @@
               ]
           },
 
+        {
+            "group": "Financial Management",
+            "pages": [
+              "finance_management/overview",
+              "finance_management/invoices",
+              "finance_management/estimates",
+              "finance_management/income",
+              "finance_management/expenses",
+              "finance_management/reimbursements"
+            ]
+        },
+
 
           {
             "group":"contracts",
